@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Masoud
 - 👀 I’m interested in Code, Books, Tech, Sience,...
-- 🌱 I’m currently doing Master's in Artificial Intelligence ...
+- 🌱 I’m currently doing my masters in Artificial Intelligence!
 - 💞️ I’m looking to collaborate on ML algorithm.
 - 📫 How to reach me panahpourimasoud@gmail.com
 
